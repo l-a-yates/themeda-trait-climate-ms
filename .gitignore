@@ -1,0 +1,10 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+
+# Inputs and generated outputs
+data/
+out/
